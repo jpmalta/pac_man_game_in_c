@@ -1,3 +1,2 @@
-void allocatemap();
-void readmap();
-void freemap();
+int acabou();
+void move(char direcao);
