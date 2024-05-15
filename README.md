@@ -7,7 +7,7 @@ Nos arquivos desenvolvidos durante o primeiro módulo do projeto, foi construíd
 Durante o segundo módulo do projeto, foram adicionados os arquivos mapa.c e mapa.h, e foram implementados os conceitos de Struct.
 No terceiro módulo, utilizei funções reutilizáveis e técnicas de manipulação de strings e estruturas de dados para aprimorar a modularidade e eficiência do código.
 No quarto módulo, explorei o uso de funções recursivas, garantindo sua correta implementação com pontos de fuga adequados para evitar loops infinitos.
-
+No quinto módulo, utilizamos as diretivas de compilação #ifdef e #ifndef.
 
 /* En-us */
 Final project of Alura's C Language training, developed with the purpose of learning to use advanced language resources, through the construction of a Pac Man game.
@@ -17,3 +17,4 @@ In the files developed during the first module of the project, a map was built u
 During the second module of the project, the mapa.c and mapa.h files were added, and the Struct concepts were implemented.
 In the third module, I employed reusable functions and techniques for manipulating strings and data structures to enhance code modularity and efficiency.
 In the fourth module, I delved into the use of recursive functions, ensuring their proper implementation with appropriate exit points to prevent infinite loops.
+In the fifth module, we used the compilation directives #ifdef and #ifndef.
